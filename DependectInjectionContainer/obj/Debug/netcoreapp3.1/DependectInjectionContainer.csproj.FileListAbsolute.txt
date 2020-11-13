@@ -1,0 +1,9 @@
+C:\Users\German\source\repos\DependectInjectionContainer\bin\Debug\netcoreapp3.1\DependectInjectionContainer.deps.json
+C:\Users\German\source\repos\DependectInjectionContainer\bin\Debug\netcoreapp3.1\DependectInjectionContainer.dll
+C:\Users\German\source\repos\DependectInjectionContainer\bin\Debug\netcoreapp3.1\DependectInjectionContainer.pdb
+C:\Users\German\source\repos\DependectInjectionContainer\obj\Debug\netcoreapp3.1\DependectInjectionContainer.csprojAssemblyReference.cache
+C:\Users\German\source\repos\DependectInjectionContainer\obj\Debug\netcoreapp3.1\DependectInjectionContainer.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\DependectInjectionContainer\obj\Debug\netcoreapp3.1\DependectInjectionContainer.AssemblyInfo.cs
+C:\Users\German\source\repos\DependectInjectionContainer\obj\Debug\netcoreapp3.1\DependectInjectionContainer.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\DependectInjectionContainer\obj\Debug\netcoreapp3.1\DependectInjectionContainer.dll
+C:\Users\German\source\repos\DependectInjectionContainer\obj\Debug\netcoreapp3.1\DependectInjectionContainer.pdb
